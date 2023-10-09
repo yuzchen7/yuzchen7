@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Full Stack Developer 
 ------------------------  
 
-I am current a full stack web developer using nodejs and react, java with an ambition to continue learning. And current trying to learn iOS development.  * 🌍  I'm based in New York City * ✉️  You can contact me at [yuzhuangchen01@gmail.com](mailto:yuzhuangchen01@gmail.com) * 🧠  I'm learning SwiftUI for IOS development * 🤝  I'm open to collaborating on I'm open to collaborative projects. * ⚡  A man who loves photography
+I am current a full stack web developer using nodejs and react, java with an ambition to continue learning. And current trying to learn iOS development.  
+
+* 🌍  I'm based in New York City 
+* ✉️  You can contact me at [yuzhuangchen01@gmail.com](mailto:yuzhuangchen01@gmail.com) 
+* 🧠  I'm learning SwiftUI for IOS development 
+* 🤝  I'm open to collaborating on I'm open to collaborative projects. 
+* ⚡  A man who loves photography
 
 ### Skills  
 
